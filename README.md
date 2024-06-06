@@ -8,7 +8,7 @@ This report outlines the development of a simple Recipe Management Application u
 - HTML/CSS: For structuring and styling the web pages.
 - Bootstrap: To enhance the design and responsiveness of the web pages.
 - Faker Library: Used for generating fake data for testing.
-- QLite: The default database used by Django for development purposes.
+- SQLite: The default database used by Django for development purposes.
 
 3. Functionalities
 - User Authentication: Users can register, log in, and log out.
